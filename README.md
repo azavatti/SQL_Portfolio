@@ -6,11 +6,18 @@ This repository showcases my SQL projects and scripts. Each script and project d
 
 For direct access to the BigQuery interface with pre-loaded data relevant to this project, use the following link:
 
-[Access BigQuery Workspace](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sstable-woods-419122!2sus-central1!3s405a49ce-2b84-41a6-8af8-930a45a742ce!2e1)
+[Access Detailed Powerlifting in BigQuery Workspace](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sstable-woods-419122!2sus-central1!3s405a49ce-2b84-41a6-8af8-930a45a742ce!2e1)
+
+## Tableau Dashboard Visualization
+
+Explore the interactive dashboard of Powerlifting Meets in the US on Tableau Public:
+
+[View Detailed Powerlifting in Tableau Dashboard](https://public.tableau.com/views/PowerliftingMeetsintheUS/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 
 
 ## Contents
-- `Project1/`: SQL scripts related to project 1.
+- `detailed_powelifting_results/`: SQL scripts related to project 1.
 - `Project2/`: SQL scripts related to project 2.
 - `Utilities/`: General SQL utilities and functions.
 
